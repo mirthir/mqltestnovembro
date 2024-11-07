@@ -1,3 +1,8 @@
-flask
-python-telegram-bot
-MetaTrader5
+ccxt
+requests
+os
+datetime
+json
+threading
+time
+tkinter
