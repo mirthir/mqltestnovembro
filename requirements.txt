@@ -1,7 +1,6 @@
 ccxt
 requests
 datetime
-json
 threading
 time
 tkinter
