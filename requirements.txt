@@ -1,6 +1,5 @@
 ccxt
 requests
-os
 datetime
 json
 threading
