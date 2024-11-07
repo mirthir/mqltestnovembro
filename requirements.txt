@@ -1,6 +1,6 @@
-ccxt
-requests
-datetime
-threading
-time
-tkinter
+ccxt ==  1.6.1
+requests == 2.28.1
+datetime == 3.10.6
+threading == 3.10.6
+time == 3.10.6
+tkinter == 3.10.6
